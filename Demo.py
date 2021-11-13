@@ -1,8 +1,3 @@
-# PBL : Auto File Organization
-# Name : Rahul Shreeebastav
-# Roll no:10
-# Class: 3CEC
-# Enrollment_No: 20SOECE11094
 
 
 import os
